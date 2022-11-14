@@ -13,5 +13,7 @@ public class Test1 {
 		System.out.println(2);
 		// 2추가
 		// caseNumber
+		
+		System.out.println(3);
 	}
 }
